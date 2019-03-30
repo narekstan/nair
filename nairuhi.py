@@ -6,8 +6,8 @@ import doctest
 def fib(n):
 	"""
 	This is the block comment for the function!
-	>>> fib(1)
-	1
+	>>> fib(4)
+	3
 	>>> fib(2)
 	1
 	>>> fib(3)
