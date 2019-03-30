@@ -7,7 +7,7 @@ def fib(n):
 def main():
 	print("Hello World!")
 	res = fib(20)
-	print("Result:",res)
+	print("Fibonacci function result:",res)
 
 if __name__ == '__main__':
 	main()
