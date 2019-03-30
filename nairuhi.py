@@ -6,12 +6,14 @@ import doctest
 def fib(n):
 	"""
 	This is the block comment for the function!
-	>>> fib(4)
-	3
+	>>> fib(1)
+	1
 	>>> fib(2)
 	1
 	>>> fib(3)
 	2
+	>>> fib(8)
+	21
 	"""
 	if n == 1 or n == 2:
 		return 1
